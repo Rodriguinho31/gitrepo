@@ -1,0 +1,8 @@
+C:\Users\lab\Desktop\Carlao\SomareDividir\SomareDividir\bin\Debug\SomareDividir.exe.config
+C:\Users\lab\Desktop\Carlao\SomareDividir\SomareDividir\bin\Debug\SomareDividir.exe
+C:\Users\lab\Desktop\Carlao\SomareDividir\SomareDividir\bin\Debug\SomareDividir.pdb
+C:\Users\lab\Desktop\Carlao\SomareDividir\SomareDividir\obj\Debug\SomareDividir.csproj.AssemblyReference.cache
+C:\Users\lab\Desktop\Carlao\SomareDividir\SomareDividir\obj\Debug\SomareDividir.csproj.CoreCompileInputs.cache
+C:\Users\lab\Desktop\Carlao\SomareDividir\SomareDividir\obj\Debug\SomareDividir.exe
+C:\Users\lab\Desktop\Carlao\SomareDividir\SomareDividir\obj\Debug\SomareDividir.pdb
+C:\Users\lab\Desktop\Carlao\SomareDividir\SomareDividir\obj\Debug\SomareDividir.exe.config
